@@ -20,6 +20,7 @@ namespace SaintCoinach.Cmd.Commands {
             "/ja",
             "/fr",
             "/de",
+            "/ko",
             "/hq"
         };
 
