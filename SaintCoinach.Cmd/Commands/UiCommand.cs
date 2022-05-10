@@ -21,7 +21,8 @@ namespace SaintCoinach.Cmd.Commands {
             "/fr",
             "/de",
             "/ko",
-            "/hq"
+            "/hq",
+            "/chs"
         };
 
         private ARealmReversed _Realm;
